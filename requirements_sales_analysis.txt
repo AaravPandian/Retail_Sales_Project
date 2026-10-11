@@ -1,0 +1,6 @@
+# Dependencies for the retail sales analysis notebook
+pandas
+matplotlib
+
+# Run the notebook locally (not needed in Google Colab)
+jupyterlab
